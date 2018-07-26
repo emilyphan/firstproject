@@ -4,6 +4,6 @@ import sys
 def entry_point():
     app = Qt.QApplication(sys.argv)
     label = Qt.QLabel()
-    label.setText('Hello Kyle')
+    label.setText('Hello Emily')
     label.show()
     app.exec()
